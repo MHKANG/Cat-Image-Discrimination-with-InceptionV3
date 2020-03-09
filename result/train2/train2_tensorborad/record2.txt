@@ -1,0 +1,9 @@
+총 3005장 사용
+train1 step(epoch) : 1000
+final accuracy: 0.78
+final corss_entropy: 0.6195
+
+final val_aacuracy: 0.84
+final cross_entropy: 0.5192
+
+1.08
